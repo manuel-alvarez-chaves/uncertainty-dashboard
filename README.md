@@ -4,3 +4,6 @@ This is a very simple streamlit dashboard used to analyze how deterministic poin
 #### Metrics
 * `NSE`: measures accuracy of point-predictions. Similar to a coefficient of determination $R^2$.
 * `Log-likehood`: measures the density of the predicted distribution over the observed data.
+
+#### Website
+Find the app at: https://nse-vs-loglikelihood.streamlit.app/.
